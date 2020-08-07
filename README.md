@@ -15,6 +15,7 @@
 ```cpp
       std::cout << "look ma', no spaces" << std::endl;
 ```
+--- 
 
 ### Connect with me:
 
@@ -25,6 +26,7 @@
 <br />
 <br />
 
+---
 
 ### Languages and Tools:
 
@@ -42,11 +44,10 @@
 <br />
 <br />
 
-### :camera: Latest Instagram Posts :camera: 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-----
+---
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Eshanatnight)](https://github.com/anuraghazra/github-readme-stats
 
+---
 
 [facebook]: https://www.facebook.com/eshanatnite/
 [instagram]: https://www.instagram.com/eshansconfession/
