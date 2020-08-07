@@ -8,8 +8,8 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate and Learn More
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to take Photos 📷
-- 🎮 Currently trying to Learn Game Design<a title="Lightroom"><img src="https://github.com/Eshanatnight/Eshanatnight/blob/master/icons/lightroom.png" height=35/> </a>
+- ⚡ Fun fact: I love to take Photos 📷  <a title="Lightroom"><img src="https://github.com/Eshanatnight/Eshanatnight/blob/master/icons/lightroom.png" height=20/> </a>
+- 🎮 Currently trying to Learn Game Design
 
 
 
