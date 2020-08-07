@@ -1,5 +1,7 @@
 ##### Hi there, I'm Eshan
-<a title="Eshan"> <img src="https://github.com/Eshanatnight/Eshanatnight/blob/master/icons/geek.png" height=75></a>
+
+
+<a title="Eshan"> <img src="https://github.com/Eshanatnight/Eshanatnight/blob/master/icons/geek.png" height=100 allign="right"></a>
 ## I'm a Student and Developer!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate and Learn More
@@ -30,7 +32,7 @@
 <img align="left" alt="Git" width="26px" img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <a title="C"><img src="https://github.com/Eshanatnight/Eshanatnight/blob/master/icons/c.png" height=35 /> </a>
-<img title="C++"><img src="https://github.com/Eshanatnight/Eshanatnight/blob/master/icons/cpp.png" height=35/> </a>
+<a title="C++"><img src="https://github.com/Eshanatnight/Eshanatnight/blob/master/icons/cpp.png" height=35/> </a>
 <a href="https://www.python.org/" title="Python"><img src="/hussainweb/hussainweb/raw/main/icons/python.png" /></a>
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
