@@ -9,7 +9,7 @@
 
 
 
-'''cplusplus
+'''c++
      std::cout << "look ma', no spaces" << std::endl;
    '''
 
