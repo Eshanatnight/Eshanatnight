@@ -10,7 +10,7 @@
 
 
 ```cpp
-    ##  std::cout << "look ma', no spaces" << std::endl;
+      std::cout << "look ma', no spaces" << std::endl;
 ```
 
 ### Connect with me:
