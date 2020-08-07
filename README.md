@@ -1,14 +1,13 @@
 ##### Hi there, I'm Eshan
 
 
-<a title="Eshan"> <img src="https://github.com/Eshanatnight/Eshanatnight/blob/master/icons/geek.png" height=100 allign="right"></a>
 
 
 ## I'm a Student and Developer!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate and Learn More
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to take Photos 📷  <a title="Lightroom"><img src="https://github.com/Eshanatnight/Eshanatnight/blob/master/icons/lightroom.png" height=25/> </a>
+- ⚡ Fun fact: I love to take Photos 📷
 - 🎮 Currently trying to Learn Game Design
 
 
