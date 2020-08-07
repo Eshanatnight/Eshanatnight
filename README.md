@@ -42,7 +42,6 @@
 <br />
 <br />
 
-<img align="right" width="40px"><img src="https://github.com/Eshanatnight/Eshanatnight/blob/master/icons/geek.png"/>
 ----
 
 
