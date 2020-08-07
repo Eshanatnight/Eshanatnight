@@ -45,7 +45,7 @@
 <br />
 
 ---
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Eshanatnight)](https://github.com/anuraghazra/github-readme-stats
+<img align="left" alt="Eshanatnite's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Eshanatnight&show_icons=true&hide_border=true" />
 
 ---
 
