@@ -31,7 +31,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <a title="C"><img src="/Eshanatnite/Eshanatnite/raw/master/icons/c.png" /> </a>
 <img title="C++"><img src="/Eshanatnite/Eshanatnite/raw/master/icons/cpp.png" /> </a>
-<a title="Python3"> <img src="/Eshanatnite/Eshanatnite/raw/master/icons/py.png" /> </a>
+<a href="https://www.python.org/" title="Python"> <img src="/Eshanatnite/Eshanatnite/raw/master/icons/py.png" /> </a>
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
