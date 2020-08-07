@@ -2,6 +2,8 @@
 
 
 <a title="Eshan"> <img src="https://github.com/Eshanatnight/Eshanatnight/blob/master/icons/geek.png" height=100 allign="right"></a>
+
+
 ## I'm a Student and Developer!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate and Learn More
@@ -28,7 +30,7 @@
 ### Languages and Tools:
 
 <a title="Visual Studio"><img src="https://github.com/Eshanatnight/Eshanatnight/blob/master/icons/visual-studio.png" height=35/> </a>
-<a title="Visual Studio Code"><img src="https://github.com/Eshanatnight/Eshanatnight/blob/master/icons/msvc.png.png" height=35/> </a>
+<a title="Visual Studio Code"><img src="https://github.com/Eshanatnight/Eshanatnight/blob/master/icons/msvc.png" height=35/> </a>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
