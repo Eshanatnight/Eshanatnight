@@ -7,6 +7,12 @@
 - ⚡ Fun fact: I love to take Photos 📷
 - 🎮 Currently trying to Learn Game Design
 
+
+
+##'''c++
+     std::cout << "look ma', no spaces" << std::endl;
+   '''
+
 ### Connect with me:
 
 [<img align="left" alt="Eshan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
