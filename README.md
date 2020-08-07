@@ -9,9 +9,9 @@
 
 
 
-'''c++
-     std::cout << "look ma', no spaces" << std::endl;
-   '''
+```cpp
+    ##  std::cout << "look ma', no spaces" << std::endl;
+```
 
 ### Connect with me:
 
