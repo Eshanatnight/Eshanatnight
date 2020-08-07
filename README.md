@@ -42,7 +42,7 @@
 <br />
 <br />
 
-<a title="Visual Studio"><img src="https://github.com/Eshanatnight/Eshanatnight/blob/master/icons/geek.png" height=100 allign="left"/> </a>
+<a allign="left" title="Visual Studio"><img src="https://github.com/Eshanatnight/Eshanatnight/blob/master/icons/geek.png" height=100/> </a>
 ----
 
 
