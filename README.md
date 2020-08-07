@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love to take Photos 📷
 - 🎮 Currently trying to Learn Game Design
 
-
+---
 
 ```cpp
       std::cout << "look ma', no spaces" << std::endl;
@@ -43,9 +43,6 @@
 <br />
 <br />
 <br />
-
----
-<img align="left" alt="Eshanatnite's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Eshanatnight&show_icons=true&hide_border=true" />
 
 ---
 
