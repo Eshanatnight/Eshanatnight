@@ -19,8 +19,6 @@
 
 ### Connect with me:
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3e53a55d-63f5-4f04-a386-66e7910c3e9f/deploy-status)](https://atmidnight.netlify.app/)
-<br />
 
 [<img align="left" alt="Eshan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Eshan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -60,7 +58,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
 <img align="left" alt="Git" width="26px" img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <a title="Visual Studio"><img src="https://github.com/Eshanatnight/Eshanatnight/blob/master/icons/visual-studio.png" height=30/> </a>
-<img align="left" src="https://github.com/Eshanatnight/Eshanatnight/blob/master/icons/cpp.png" width=26px/>
+<img align="inline" src="https://github.com/Eshanatnight/Eshanatnight/blob/master/icons/cpp.png" width=26px/>
 
 
 <br />
