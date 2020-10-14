@@ -19,7 +19,7 @@
 
 ### Connect with me:
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3e53a55d-63f5-4f04-a386-66e7910c3e9f/deploy-status)](https://app.netlify.com/sites/atmidnight/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3e53a55d-63f5-4f04-a386-66e7910c3e9f/deploy-status)](https://atmidnight.netlify.app/)
 <br />
 
 [<img align="left" alt="Eshan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
@@ -44,7 +44,8 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <a title="HTML"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height=35/> </a>
 <a title="CSS"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height=35/> </a>
-
+<img align="left" alt="Netlify" width="26px" src="https://avatars0.githubusercontent.com/u/7892489?s=200&v=4" />
+<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 
 <br />
 <br />
