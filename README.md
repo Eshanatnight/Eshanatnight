@@ -20,6 +20,7 @@
 ### Connect with me:
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3e53a55d-63f5-4f04-a386-66e7910c3e9f/deploy-status)](https://app.netlify.com/sites/atmidnight/deploys)
+<br />
 
 [<img align="left" alt="Eshan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Eshan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
