@@ -6,7 +6,7 @@
 ## I'm a Student and Developer!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate and Learn More
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Become Better.
 - ⚡ Fun fact: I love to take Photos 📷
 - 🎮 Currently trying to Learn Game Design
 
